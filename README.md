@@ -1,29 +1,35 @@
-# Git_summary
+# Git_summary📝
  
 java sukkiri - chapter 13 
 
-## SCM: Software Configuration Management kewords 
+## 📎SCM: Software Configuration Management kewords 
 
-** Most common SCM **
+**Most common SCM**
 
 - Subversion (SVN)
 - Git 
 
-** GIt structures **
+**GIt structures**
 - remote repository 
 - local repository 
 - (stage)
 - working tree
 
-** importnat actions ** 
+**importnat actions** 
 - commit 
 - push 
 - pull 
 - clone 
 - add 
 
-## .gitignore file 
+## 📎.gitignore file 
 
-
+**example**
+```
+#開発チーム用 Git登録除外指定
+*.class
+/class/
+dummy
+```
 
 
